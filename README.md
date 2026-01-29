@@ -6,7 +6,7 @@ Soy un apasionado desarrollador de software con experiencia en  desarrollo web. 
 
 ## 🌱 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en Foreveryone.
+- 🔭 Actualmente estoy trabajando en Investrader.
 - 🌍 Me interesa el desarrollo web, Machine learning.
 
 - 📫 Cómo contactarme: abdelfregel011117@gmail.com.
@@ -14,12 +14,12 @@ Soy un apasionado desarrollador de software con experiencia en  desarrollo web. 
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes:** JavaScript, Python, C#
-- **Frameworks:** React, Angular, Node.js
+- **Frameworks:** React, Angular, Node.js, Nest.js
 - **Bases de Datos:** PostgreSQL
 - **Herramientas:** Git, Docker
 
 ## 📈 Mis Proyectos
-
+- Investrader
 
 
 ## 🎯 Objetivos
